@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/ddos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sapon.ca
+  * I am ddos (https://keybase.io/ddos) on keybase.
+  * I have a public key with fingerprint E9D8 C5E4 6ED3 73D6 8FB4  321D B233 9160 03C2 207A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e9d8c5e46ed373d68fb4321db233916003c2207a",
+            "host": "keybase.io",
+            "key_id": "b233916003c2207a",
+            "kid": "0101d2edeb29a6f47035da16538fa444fc347438788bd17aebb950337c69a679e5a40a",
+            "uid": "74818677f12645a052b688d2cef6ee00",
+            "username": "ddos"
+        },
+        "service": {
+            "hostname": "sapon.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1439080887,
+    "expire_in": 157680000,
+    "prev": "b36f5bf152a232aea43a6871f0806a34f10eeb4a9cf44e03c7190c71755287e0",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.34
+Comment: https://keybase.io/crypto
+
+yMMuAnicbVJtUFRVGF52gQxlIKqtMIHuOCG0LPfj3K8ddAjRVNRRFIW08H6cu9xZ
+3LvtB4ILZk0yKGI0yrAMGhmBg9MQMWZY6AZs/CCGsRkmt0hUGtKyNUioBUfpXsb+
+dX6cM+d5n+c553nnDcQadDER3cQH+wz9KQcjvutjPLqCwbNfehFeESsQixexwcVD
+ku1W6HQ4ZbsbsSCQFRmBhICCIkETIsVIPCBwTORxgmAxCkUJAcdRmkNMSIni0hSq
+Dc+5oFlWVEy9FMuiiv4P37ZYQDEUE3EoQh5nOUoCNEqQIodRJMFIHABAEghAA4Kh
+GYYXMZqDPM+SKEHQAqXyaRaSHEA1O8+iHQ0YjKFoWsJwCpAcSuI8xTAiLkCJghBF
+NaILOu3cfqiyRVFxIVUmREXKZAFq8bUUj6suzqHYzYJm7nAqbkVQSlW0xO12WDSR
+u8KhsQ5AvvixvpiX7aLaPlVQBp0uWbEjFkxlCm5ZM8QAwaIMyjC0CYHlDtkJi2WN
+QdIUg6pLewaWac0iKInkJYzEOZzAOcgBgqMYGpNUNcURQMJQCHnAsYIEAFRbSmMs
+qm40SeIMDbWQLviWXUEspPpNzqplka12zu1xQqSqv29vpC4iRhcdpdcGQBfzZPx/
+YxEOxi28FmlMf3S75pPKmoEsmBXctubqxJS3lNy+kDFy6vAl+pfszsS58Iv+ad30
+mY1je6PTs9cPddb1bdP7/im4lv0Zmt/jcrTM3nw1dMs8uDNYFb0Q82mkuTChbvrN
+gj9OpMVcT5xrzl+du/kKmXpv9B3P/ZKJ+fZ4/O7aqG/up/TGmuo7Zpp6glE7+HuA
+/naKWlWUMRjM6Pg8J0loOhnH6n+1pjJTmS/IXW0+f6E/YXsosCX1ItpXk/R9ZVpf
+0fH1uFufS5oNOQNFEVtPH4z7afh8Q/XrdX5iWP9h6p25PcaXL59zfHXUbes6fncp
+sI3kHgtXEcGemfdbT7d5Dv3IDP+wK+5i/LJu32jtmdGv42yzYFn7XKB5ct7bVZ6X
+eW2L0Xt7T84KQ/LAKJulT1hzNW1kaPzPCv8uKAd+39Tb3kpWOpeDlAfJnQ3TN/PX
+4T+X9yxpTvbNrNofuyOcuHozOdA6pgvPd3cY3jO2xVp1LRkJRaUtzz53QSp7UNjA
+7l56eGJ50uTlyYfjLc1/jef9dsFPHappQ3pJnzd9auyJ6+7ZlUhtJNHfeHJDo+/o
+eMMp5WlDnoVWmph19Ze6QqHG3YnPnN+w4t0jLba/P7KeeLjk+eFq3hS6sXbsi9F9
+5gOms56Q7crWpLLAneobjz6+ldD09huJRqNu57ljQ7PhTfG1T2XWv3LkpX8Bdd2f
+9A==
+=S4lp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ddos
+
+==================================================================
