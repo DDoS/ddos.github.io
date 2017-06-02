@@ -30,7 +30,6 @@ header a:visited {
 
 main {
     flex: 1;
-    padding: 8pt;
     color: rgb(51, 51, 51);
     background-color: rgb(242, 242, 242);
 }
@@ -40,6 +39,11 @@ main a:link {
 }
 main a:visited {
     color: rgb(11, 113, 128);
+}
+
+.mainContent {
+    margin: auto;
+    width: 75%;
 }
 
 footer {
